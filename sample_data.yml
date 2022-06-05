@@ -1,0 +1,37 @@
+scene1: "scenc
+ e"
+
+scene2: 
+ s2: scene   2
+
+scene3: 
+ scene3:
+  scene3: 6.0
+ s3: "scene3"
+
+scene4: 
+    "scene 4"
+
+scene5:
+
+scene6: 
+- "scene 6"
+
+scene7: 
+    - "scene 7"
+
+scene8: [Oscarm: "oscar", :s]
+
+scene9:
+ - scene: "scene 9"
+ - scene9: 
+    scene9: "scene 
+     9"
+
+scene10: 
+       - "scene 10"
+       - scene10: 
+          "scene10"
+
+
+
